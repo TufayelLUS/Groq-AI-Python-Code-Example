@@ -1,5 +1,5 @@
 # Groq Python Code Example
-This is a utilization of a Python code snippet that uses Groq API which is very fast to generating AI model output
+This is a utilization of a Python code snippet that uses Groq API which is very fast at generating AI model output
 
 # Get an API key
 First, get an API key from https://console.groq.com/keys
